@@ -19,4 +19,6 @@ A collection of Science Teacher resources for multiple science classes.  With ma
 
 ## Earth Science
 
+- [Space Atlas — Interactive Earth and Space Science](https://spaceatlasedu.org/) — Moon-phase, Earth-season and cosmic-scale models for teacher-guided exploration (developer-submitted). The site uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
+
 ## Environmental Science
